@@ -1,0 +1,7 @@
+p{
+    width: 50px;
+    background-color: red;
+    height: 45px;
+    display: inline-block;
+    white-space: nowrap;
+}
